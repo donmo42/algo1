@@ -1,6 +1,6 @@
 # algo1
 
-Petit projet d'entraînement à l'algorithmique en Python, à travers quelques fonctions simples.
+  Petit projet d'entraînement à l'algorithmique en C, à travers quelques fonctions simples.
 
 ## 📁 Contenu
 
